@@ -28,3 +28,9 @@ This serverless pipeline runs 24/7 to:
 - **Live Workflow:** **[View the Public Make.com Scenario](https://eu1.make.com/public/shared-scenario/Wb0p3zpSPel/integration-google-sheets)**
 - **Scenario Blueprint:**
   ![Make.com Scenario Blueprint](image/README/1762926859338.png)
+
+- sheets: ![1762927508041](image/README/1762927508041.png)
+- hot leads: ![1762927537325](image/README/1762927537325.png)
+- cold leads: ![1762927555613](image/README/1762927555613.png)
+
+<!-- https://eu1.make.com/480289/scenarios/3616817/edit -->
